@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\bin\Debug\Lab9 - classes.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\bin\Debug\Lab9 - classes.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\bin\Debug\Lab9 - classes.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\obj\Debug\Lab9 - classes.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\obj\Debug\Lab9 - classes.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab9 - classes\Lab9 - classes\obj\Debug\Lab9 - classes.pdb
